@@ -1,0 +1,25 @@
+---What does this program do?---
+This program allows you to block websites that can interrupt you while you are working/doing homework.
+You can add websites in block_list.txt
+
+!!! ONLY 1 URL FOR 1 LINE !!!
+
+Its better to use short and full website URL at the same time, for exaple:
+
+***************
+www.youtube.com
+youtube.com
+***************
+
+---HOW TO START (Windows)---
+1)Open command line as administrator
+2)cd <.../website_blocker>
+3)python main.pyw
+
+---PARAMETRES---
+A time interval
+2 int parametres
+first input - time when start blocking websites
+second input - time when stop blocking websites
+
+My GitHub - https://github.com/Ozweeg
